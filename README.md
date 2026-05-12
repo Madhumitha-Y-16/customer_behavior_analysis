@@ -142,10 +142,3 @@ Open the `.pbix` file in Power BI Desktop.
 ---
 
 
----
-
-## Author
-
-**Madhu**
-Aspiring Data Analyst | Python | SQL | Power BI | Data Analytics
-
